@@ -1,5 +1,8 @@
 # chromecookie
 
+chrome自用插件：一键copy cookie 
+one Click Copy Cookie
+
 ## Project setup
 ```
 npm install
