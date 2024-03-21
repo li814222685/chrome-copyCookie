@@ -1,3 +1,24 @@
-# chrome-copyCookie
-chrome 自用插件
-一键复制cookie字符串（未parse为key value）One click copy cookie
+# chromecookie
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
